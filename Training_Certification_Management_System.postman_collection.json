@@ -1,0 +1,147 @@
+{
+  "info": {
+    "_postman_id": "a4f6b630-84e9-492b-942b-e2777c25e19b",
+    "name": "Training_Certification_Management_System",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "55938644",
+    "_collection_link": "https://go.postman.co/collection/55938644-a4f6b630-84e9-492b-942b-e2777c25e19b?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Register",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Training",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Trainings",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Training By ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Training",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete Training",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Enrollment",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Enrollments",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Employee Trainings",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update Enrollment",
+      "request": {
+        "method": "PUT",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Create Certificate",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Certificates",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Certificate By ID",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Search by Technology",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Filter by Status",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Pagination",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
